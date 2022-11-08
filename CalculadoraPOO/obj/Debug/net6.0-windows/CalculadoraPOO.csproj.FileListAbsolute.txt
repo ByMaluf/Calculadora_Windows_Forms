@@ -1,0 +1,72 @@
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.exe
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.deps.json
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.runtimeconfig.json
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.dll
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.pdb
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.AssemblyReference.cache
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Form1.resources
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.GenerateResource.cache
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfoInputs.cache
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfo.cs
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.dll
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\refint\CalculadoraPOO.dll
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.pdb
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.genruntimeconfig.cache
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\ref\CalculadoraPOO.dll
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Properties.Resources.resources
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.exe
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.deps.json
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.runtimeconfig.json
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.dll
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.pdb
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.AssemblyReference.cache
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Form1.resources
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Properties.Resources.resources
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.GenerateResource.cache
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfoInputs.cache
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfo.cs
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.dll
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\refint\CalculadoraPOO.dll
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.pdb
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.genruntimeconfig.cache
+C:\Users\brenn\Desktop\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\ref\CalculadoraPOO.dll
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.AssemblyReference.cache
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.dll
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\refint\CalculadoraPOO.dll
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.pdb
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.exe
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.deps.json
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.runtimeconfig.json
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.dll
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.pdb
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Form1.resources
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Properties.Resources.resources
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.GenerateResource.cache
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfoInputs.cache
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfo.cs
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.genruntimeconfig.cache
+G:\Meu Drive\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\ref\CalculadoraPOO.dll
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.exe
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.deps.json
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.runtimeconfig.json
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.dll
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\bin\Debug\net6.0-windows\CalculadoraPOO.pdb
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.AssemblyReference.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Form1.resources
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.Properties.Resources.resources
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.GenerateResource.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfoInputs.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.AssemblyInfo.cs
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.dll
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\refint\CalculadoraPOO.dll
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.pdb
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\CalculadoraPOO.genruntimeconfig.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Calculadora Final POO\CalculadoraPOO\obj\Debug\net6.0-windows\ref\CalculadoraPOO.dll

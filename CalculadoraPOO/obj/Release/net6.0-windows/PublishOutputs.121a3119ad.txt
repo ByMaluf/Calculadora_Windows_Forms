@@ -1,0 +1,5 @@
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Release\net6.0-windows\publish\CalculadoraPOO.exe
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Release\net6.0-windows\publish\CalculadoraPOO.dll
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Release\net6.0-windows\publish\CalculadoraPOO.deps.json
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Release\net6.0-windows\publish\CalculadoraPOO.runtimeconfig.json
+C:\Users\brenn\Documents\Visual Studio 2022\CalculadoraPOO\CalculadoraPOO\bin\Release\net6.0-windows\publish\CalculadoraPOO.pdb
